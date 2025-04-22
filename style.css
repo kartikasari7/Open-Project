@@ -1,0 +1,51 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .hero {
+    padding: 80px 0;
+  }
+  
+  .btn-pink {
+    background-color: #fcd9d9;
+    border: none;
+  }
+  
+  .rating-box {
+    background-color: #fcd9d9;
+    padding: 10px 20px;
+    border-radius: 12px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 500;
+    margin-top: 20px;
+  }
+  
+  .rating-icon {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .top-right-contact {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  
+  .hero-image {
+    position: relative;
+  }
+  
+  .hero-image img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .arrow-icon {
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    width: 40px;
+  }
+  
